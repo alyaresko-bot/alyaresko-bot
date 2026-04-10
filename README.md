@@ -98,7 +98,7 @@
 
 ---
 
-## Contacts
+## Контакты
 
-- **Telegram**: [@prompt_Alexey]
+- **Telegram**: '@prompt_Alexey'
 - **Email**: 'alyaresko@gmail.com'
